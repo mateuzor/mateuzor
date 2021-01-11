@@ -10,7 +10,7 @@
   </script>
  ```
 
-In the past I entered the world of programming, we separated for a long time, but passion like that is never forgotten, today focused on improving my knowledge in JavaScript and following more and more in love with this infinite love.
+I'm a Full Stack Developer Passionate about the best web and mobile development technologies. I have experience with projects using JavaScript, Typescript, NodeJS, ReactJS, and React Native. I'm a student at Bootcamp Gostack at Rocketseat, where I learned in practice on the most modern technologies of web and mobile development.
 
 **Languages and Tools:**  
 

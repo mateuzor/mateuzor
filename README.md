@@ -23,12 +23,4 @@ I'm a Full Stack Developer Passionate about the best web and mobile development 
 - :office_worker: Currently working as Frontend Developer (React.JS - React Native).
 - :blue_heart: Techs: React.js, React Native, Node.js, TypeScript, Docker, MongoDB, AWS.
 - :new: Studying new technologies: NextJS, SQL
-<p align="justify">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mateuzor&show_icons=true&count_private=true&theme=radical&hide=issues" />
-</a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuzor&layout=compact&theme=radical" />
-</a>
-</p>
 <!--> :octocat: 

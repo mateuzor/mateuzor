@@ -1,26 +1,9 @@
-# :man_technologist: Mateus Ramos
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mateuzor)](https://github.com/mateuzor)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateuzor/)](https://www.linkedin.com/in/mateuzor/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juliano.tavaress@gmail.com)](mailto:mateuzor@gmail.com)
+## 👨🏻‍💻 Um pouco sobre mim
 
-```javascript
- <script>
-    alert( 'Hello, world! 👋' );
-  </script>
- ```
+Oi 👋🏻  
+Eu sou o Mateus Ramos, Desenvolvedor Web na [Easymine](https://www.easymine.com.br/), trabalhando com React.Js and Node Js.
 
-I'm a Full Stack Developer Passionate about the best web and mobile development technologies. I have experience with projects using JavaScript, Typescript, NodeJS, ReactJS, and React Native. I'm a student at Bootcamp Gostack at Rocketseat, where I learned in practice on the most modern technologies of web and mobile development.
+Minhas ferramentas favoritas são: <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b>, <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Js & React Native</b>, <img src="https://i.ibb.co/vVxmyN2/node.png" width="20"/> <b>Node Js</b>
 
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/react-native/react-native.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
-- :office_worker: Currently working as Frontend Developer (React.JS - React Native).
-- :blue_heart: Techs: React.js, React Native, Node.js, TypeScript, Docker, MongoDB, AWS.
-- :new: Studying new technologies: NextJS, SQL
-<!--> :octocat: 
+Atualmente estou aprendendo: <img src="https://ibb.co/fSXqrw6" width="20"/> <b>SQL</b>, <img src="https://i.ibb.co/T0XzYVK/apollo.png" width="20"/> <b>Apollo</b>

@@ -1,6 +1,4 @@
-# Hello, I'm Mateus, Welcome to my Github
-
----
+# Hello, I'm Mateus, Welcome to my Github !
 
 Let me introduce myself, I'm a 🇧🇷 Brazilian Software Engineer with nearly 7 years of experience building modern, 
 scalable frontend solutions focused on performance, usability, and real business impact. 

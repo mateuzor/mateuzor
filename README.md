@@ -1,21 +1,20 @@
 # Hello, I'm Mateus, Welcome to my Github !
 
-Let me introduce myself, I'm a 🇧🇷 Brazilian Software Engineer with nearly 7 years of experience building modern, 
-scalable frontend solutions focused on performance, usability, and real business impact. 
-Since 2018, I’ve worked on high-impact projects across insurance, mining, agribusiness, 
-healthcare, and retail—delivering web and mobile applications for companies in Brazil, the US, and Canada.
+Let me introduce myself, I'm a 🇧🇷 Brazilian Software Engineer with nearly 7 years of experience in software engineering, 
+I’ve worked across multiple industries — including insurance, mining, retail, agritech, and fintech — delivering scalable 
+and reliable digital solutions that drive real business impact. Since 2018, I’ve specialized in building modern frontend 
+applications, robust internal tools, and high-performance user interfaces with a focus on usability, accessibility, 
+maintainability, and product alignment.
 
-I’ve led the frontend modernization of legacy platforms used by over 1,000 employees 
-in mining operations, developed geospatial interfaces for agricultural risk analysis 
-platforms, and built internal management systems from scratch for international startups. 
-My focus is on building robust component-based architectures, writing clean and reusable code, 
-and collaborating closely with backend 
-and product teams to ship fast and add value.
+I’ve led the frontend modernization of legacy platforms used by over 1,000 employees in the mining sector, transforming 
+outdated desktop systems into modern web applications. I’ve launched greenfield products for international startups, 
+developed geospatial interfaces for agricultural risk platforms, and currently contribute to the development of 
+digital banking solutions for a financial institution — helping design, build, and evolve new products used by thousands of customers. 
+My daily work includes technologies like JavaScript, TypeScript, React, Next.js, Vue, Redux, and design systems, 
+always paired with automated testing (unit + integration) and strong architectural principles.
 
-I work daily with technologies like **React, TypeScript, Redux, Styled Components, 
-Ant Design, Storybook, Firebase, and Node.js**. I’m passionate about solving real problems 
-through well-crafted interfaces, learning by doing, and contributing to teams that value 
-product quality, autonomy, and technical excellence—especially in global and remote-first environments.
+I thrive in cross-functional teams, collaborating with product, design, backend, and DevOps to ship clean, tested, 
+and scalable code. I care deeply about performance, accessibility, and long-term maintainability.
 
 ---
 

@@ -31,7 +31,7 @@ and scalable code. I care deeply about performance, accessibility, and long-term
 ---
 
 ### 💻 Studies notes:
-https://app.notion.com/p/mateuzor/Roadmap-sh-Di-rio-de-Estudos-e-Mentoria-4166d0824a6581afae0dc22f04e679a7
+- https://app.notion.com/p/mateuzor/Roadmap-sh-Di-rio-de-Estudos-e-Mentoria-4166d0824a6581afae0dc22f04e679a7
 ---
 
 ## 🛠️ Technologies & Tools

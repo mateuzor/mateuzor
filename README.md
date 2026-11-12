@@ -30,6 +30,10 @@ and scalable code. I care deeply about performance, accessibility, and long-term
 
 ---
 
+### 💻 Studies notes:
+https://app.notion.com/p/mateuzor/Roadmap-sh-Di-rio-de-Estudos-e-Mentoria-4166d0824a6581afae0dc22f04e679a7
+---
+
 ## 🛠️ Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
